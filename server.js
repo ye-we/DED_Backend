@@ -13,7 +13,7 @@ const app = require('./app');
 mongoose.connect(
   process.env.DATABASE,
   // process.env.HOST,
-  { useNewUrlParser: true },
+  { useNewUrlParser: true, bufferCommands: false },
   err => {
     if (err) {
       console.log(err);
