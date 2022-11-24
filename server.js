@@ -10,18 +10,13 @@ process.on('uncaughtException', err => {
 dotenv.config({ path: './config.env' });
 const app = require('./app');
 
-mongoose.connect(
-  process.env.DATABASE,
-  // process.env.HOST,
-  { useNewUrlParser: true, bufferCommands: false },
-  err => {
-    if (err) {
-      console.log(err);
-    } else {
-      console.log('connected to database');
-    }
-  }
-);
+mongoose
+  .connect(process.env.DATABASE, {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useFindAndModify: false
+  })
+  .then(() => console.log('DB connection successful!'));
 
 const port = process.env.PORT || 5000;
 const server = app.listen(port, () => {
