@@ -11,7 +11,7 @@ dotenv.config({ path: './config.env' });
 const app = require('./app');
 
 mongoose.connect(
-  process.env.HOST,
+  process.env.DATABASE,
   { useNewUrlParser: true, useUnifiedTopology: true },
   err => {
     if (err) {
