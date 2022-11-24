@@ -12,16 +12,19 @@ const app = require('./app');
 
 console.log(typeof process.env.DATABASE);
 
-const mongooseConnect = async () => {
-  try {
-    await mongoose.connect(process.env.DATABASE);
-    console.log('DB connection successful.');
-  } catch (err) {
-    console.log(err);
+mongoose.connect(
+  process.env.DATABASE,
+  // process.env.HOST,
+  { useNewUrlParser: true, useUnifiedTopology: true },
+  err => {
+    if (err) {
+      console.log(err);
+      console.log('here');
+    } else {
+      console.log('connected to database');
+    }
   }
-};
-
-mongooseConnect();
+);
 
 const port = process.env.PORT || 5000;
 const server = app.listen(port, () => {
