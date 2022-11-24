@@ -10,10 +10,12 @@ process.on('uncaughtException', err => {
 dotenv.config({ path: './config.env' });
 const app = require('./app');
 
+console.log(process.env.DATABASE);
+
 mongoose.connect(
   process.env.DATABASE,
   // process.env.HOST,
-  { useNewUrlParser: true, bufferCommands: false },
+  { useNewUrlParser: true, useUnifiedTopology: true },
   err => {
     if (err) {
       console.log(err);
