@@ -7,8 +7,8 @@ process.on('uncaughtException', err => {
   process.exit(1);
 });
 
-dotenv.config();
 const app = require('./app');
+dotenv.config().parsed;
 
 mongoose.connect(
   process.env.DATABASE,
