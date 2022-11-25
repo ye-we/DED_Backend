@@ -12,7 +12,7 @@ dotenv.config().parsed;
 console.log(dotenv.config().parsed);
 
 mongoose.connect(
-  process.env.DATABASE,
+  'mongodb+srv://yewe:yewe12345@cluster0.gc8uo.mongodb.net/DED?retryWrites=true&w=majority',
   // process.env.HOST,
   { useNewUrlParser: true, useUnifiedTopology: true },
   err => {
