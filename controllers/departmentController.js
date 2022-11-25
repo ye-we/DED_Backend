@@ -10,3 +10,5 @@ exports.getAllDepartments = factory.getAll(Department);
 exports.updateDepartment = factory.updateOne(Department);
 
 exports.getDepartment = factory.getOne(Department);
+
+exports.getTree = factory.getTree(Department);

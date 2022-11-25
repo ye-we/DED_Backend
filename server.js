@@ -9,6 +9,7 @@ process.on('uncaughtException', err => {
 
 const app = require('./app');
 dotenv.config().parsed;
+console.log(dotenv.config().parsed);
 
 mongoose.connect(
   process.env.DATABASE,
@@ -17,7 +18,6 @@ mongoose.connect(
   err => {
     if (err) {
       console.log(err);
-
       console.log('here');
     } else {
       console.log('connected to database');
