@@ -1,0 +1,227 @@
+[33mcommit fc1da0b503ed8276b3b1c2194381b038b4305cdb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msignup[m[33m, [m[1;32mdev[m[33m)[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Sat Nov 26 00:19:43 2022 +0300
+
+    update
+
+[33mcommit 3ced047b0a803071a2a10a91ef4e1b9508a56009[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Sat Nov 26 00:12:09 2022 +0300
+
+    added new db user
+
+[33mcommit bcb7c5fce586596c3a12ebc813b09b7af6927910[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Sat Nov 26 00:06:41 2022 +0300
+
+    wrapped & with ""
+
+[33mcommit fba2d7768b3ae60319ff0d5c3f1776331b01a04f[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Sat Nov 26 00:05:03 2022 +0300
+
+    exposed uri
+
+[33mcommit 5b90073bcb7f73f19129810336d835d20fbd7df6[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Sat Nov 26 00:01:36 2022 +0300
+
+    removed unnessary env
+
+[33mcommit 8e4d9a363e9b8e6f6cfa88be7174d03f53695e80[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Fri Nov 25 23:57:00 2022 +0300
+
+    log
+
+[33mcommit 119d2d2644aeaca5039873e78e5cb017119e20be[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Fri Nov 25 23:52:37 2022 +0300
+
+    update
+
+[33mcommit 3fe2ab9c9984786f23dda0d056082142b3eb563d[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:58:49 2022 +0300
+
+    test
+
+[33mcommit bf80f92af272ba72aa04c7175c535b59e991b6ff[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:54:05 2022 +0300
+
+    reneamed config.env to .env
+
+[33mcommit a884fb6478673028bcb69de6e83a6ad068a4de1e[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:46:33 2022 +0300
+
+    moved urlencoded
+
+[33mcommit dfd820976fcf2f46981913b49bae25c0ab71987b[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:40:04 2022 +0300
+
+    text
+
+[33mcommit cc89a0f595f5fe06f616d6fc073e77814b3dd032[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:34:02 2022 +0300
+
+    updated mongoose connect
+
+[33mcommit ddd5c2a14ea238fc8d46e6277bc61b097e98420d[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:18:59 2022 +0300
+
+    test
+
+[33mcommit 987fbeba61087264bdd844bc481beb3ecaf504cc[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:17:17 2022 +0300
+
+    some test
+
+[33mcommit 33c30d3dfd567e7c3ccd95ca9ed18c1137bcdb91[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:13:59 2022 +0300
+
+    some comment
+
+[33mcommit 38ce741e8e2ca85e2f946b8ce679f00e6c7829a8[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 15:10:34 2022 +0300
+
+    some comment
+
+[33mcommit 9e438f61006a3975d3e9aa504583271392901cbd[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:53:47 2022 +0300
+
+    added useUnifiedTopology
+
+[33mcommit 0e4376fe4f7b3b5376f519f025a73d3c227ed590[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:47:48 2022 +0300
+
+    updated mongoose connect options
+
+[33mcommit c7770b118d91577ee996b48a97515b150d9630e7[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:45:29 2022 +0300
+
+    added cors
+
+[33mcommit 1b4ef959b7e3c5eb1e2c56a91696f2a469028b28[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:33:08 2022 +0300
+
+    updated mongoose connect options
+
+[33mcommit 6e87f49ffb93181d516d92c057b162bc9f62f667[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:30:17 2022 +0300
+
+    updated mongoose connect options
+
+[33mcommit 07f5243b89fd2d7ca9089a6170d7775a6e8efac9[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:27:59 2022 +0300
+
+    updated dotenv.config
+
+[33mcommit c854c5a11ea870598a2c82ab397a262420de8d80[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:27:28 2022 +0300
+
+    renamed config
+
+[33mcommit 7bbfed8d74a36534862209e3b549c69c6fde26e4[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:24:36 2022 +0300
+
+    updated dotenv.config
+
+[33mcommit ad094c9c9dde24b125f96abcf25fa2c72a65db6b[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:22:51 2022 +0300
+
+    updated server and env
+
+[33mcommit 278e07fb81b892b3ecea490752b54d113296833e[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:21:58 2022 +0300
+
+    renamed env
+
+[33mcommit 68644ec00513d865241a7b0de11c26447e3ed3f2[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:16:47 2022 +0300
+
+    updated mongoose connect options
+
+[33mcommit b349f0cfb0de703719df68182cdaaba872a9281c[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:13:55 2022 +0300
+
+    updated mongoose connect options
+
+[33mcommit 693044972f99ffe2d33f7d839e82f4a52921280c[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:09:33 2022 +0300
+
+    included urlencoded middleware
+
+[33mcommit e9f69133cc160877fde57facd9956841321c4fd7[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:02:55 2022 +0300
+
+    updated mongoose connect setting
+
+[33mcommit 7694b603896dea3c254b536b59b0a8df7aae8c53[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 14:00:16 2022 +0300
+
+    removed connect options
+
+[33mcommit 755b7015f3b869efb563798f8e6b48ab5973d073[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 13:48:08 2022 +0300
+
+    updated mongoose connect setting
+
+[33mcommit cc98b0055a0a6a7021812a94eb6a0e47befcbc48[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 13:21:12 2022 +0300
+
+    changed the env variable
+
+[33mcommit e86b11e0830ec404de4d7064d9231cb22d7d1d9d[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 13:10:54 2022 +0300
+
+    changed the scripts
+
+[33mcommit 612d46c76df8770b463b8b3a96694450cfc78942[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 13:08:27 2022 +0300
+
+    removed vercel
+
+[33mcommit ce2993f09d896eb8c9e8c83e5ff3f753450731e5[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 09:52:43 2022 +0300
+
+    updated the vercel.json file
+
+[33mcommit f8cfa79b2987ee81e28f93e6f0b38c1d74584878[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 09:47:44 2022 +0300
+
+    Updated the local mongoDB server
+
+[33mcommit 6a84758dda5ba75c6228c2f2506744c74d36b8dd[m
+Author: yewe <khalid.yewe@gmail.com>
+Date:   Thu Nov 24 09:16:42 2022 +0300
+
+    first commit
